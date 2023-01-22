@@ -5,3 +5,5 @@
 **jirnii**
 
 _**jirnii kursiv**_
+
+delaem konflikt
