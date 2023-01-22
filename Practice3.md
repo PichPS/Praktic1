@@ -2,3 +2,4 @@
 
 *kursive* - 2
 
+delaem konflikt
